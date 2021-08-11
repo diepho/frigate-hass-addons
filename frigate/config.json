@@ -1,6 +1,6 @@
 {
   "name": "SmartEyes NVR",
-  "version": "1.13",
+  "version": "1.14",
   "panel_icon": "mdi:cctv",
   "slug": "smarteyes",
   "description": "NVR with realtime local object detection for Edge-devices and IP cameras",
