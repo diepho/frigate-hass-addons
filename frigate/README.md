@@ -1,8 +1,8 @@
-# Home Assistant Add-on: Frigate NVR
+# Home Assistant Add-on: SmartEyes NVR
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
-NVR with realtime local object detection for IP cameras.
+NVR with realtime local object detection for Edge-devices and IP cameras.
 
 You must create a config file as `frigate.yml` in the root of your Home Assistant configuration directory.
 
